@@ -1,0 +1,54 @@
+.profile-pic {
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+    
+
+}
+
+a{
+    text-decoration: none;
+    font-size: 13px;
+    color: #222;
+    font-family: arial,sans-serif;
+    
+}
+
+.search-bar{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+    height: 30px;
+    
+    
+}
+
+
+.bottons {
+    height: 36px;
+    line-height: 27px;
+    text-align: center;
+}
+
+.bottons_up{
+    float: right;
+    
+}    
+    
+
+
+.footer a{
+    text-decoration: none;
+    font-size: 13px;
+    color: #222;
+    font-family: arial,sans-serif;
+
+}
+
+.footer{
+    display: block;
+    line-height: 40px;
+    background: #f2f2f2;
+    margin-top: 15%;
+
+}
